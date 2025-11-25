@@ -1,0 +1,448 @@
+[33mcommit cbaeaeca245dc0adcbdec6494d1cec716c5f6a7e[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Sun Aug 22 18:51:21 2021 +0530
+
+    Initial setup
+
+[33mcommit f1545d9cd789089f589eca7c1e2383683f3257a8[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Mon Aug 23 00:55:18 2021 +0530
+
+    Add header
+
+[33mcommit 8e9beb82519db4ac5c08960ca70750d8052f101f[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Mon Aug 23 12:28:02 2021 +0530
+
+    Add about section
+
+[33mcommit 1152aaf78210f4af5a25f425883416b6cd3e5b94[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Mon Aug 23 12:41:32 2021 +0530
+
+    Add footer
+
+[33mcommit 75803ec68d837432aada7af4e864009f9903e11f[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Mon Aug 23 12:41:44 2021 +0530
+
+    Change font family
+
+[33mcommit 600f775144cad828100e6178ae2819d22b524066[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Mon Aug 23 13:45:51 2021 +0530
+
+    Add skills section
+
+[33mcommit 42e532137729068722c4953073e7e1f828949b29[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Mon Aug 23 16:09:07 2021 +0530
+
+    Add projects section
+
+[33mcommit ab8f8265d50b17c1539e55779a2c403947234a6a[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Mon Aug 23 16:37:21 2021 +0530
+
+    Add link hover animation
+
+[33mcommit c67fbd6096f5748defc60d644d92692c7551b14f[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Mon Aug 23 17:12:41 2021 +0530
+
+    Add button hover animation
+
+[33mcommit e42c518ba4caf9ed2160c8dcb8fb4839dec5e8be[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Mon Aug 23 17:20:01 2021 +0530
+
+    Make resume button a link
+
+[33mcommit fa0fb08b2d6414a20a5d3a49b157fd3be3cc81ff[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Mon Aug 23 17:46:09 2021 +0530
+
+    Refactor about section
+
+[33mcommit 482ef658f30bbe5096250b034a437b690da7ba8b[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Mon Aug 23 18:09:14 2021 +0530
+
+    Add media queries
+
+[33mcommit 598ef60d64321da8d6e1a84b8b17f541691d3193[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Mon Aug 23 18:19:11 2021 +0530
+
+    Add contact section
+
+[33mcommit 62b5399eedd472b2630be489f5755be43ab0d433[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Mon Aug 23 18:36:12 2021 +0530
+
+    Refactor
+
+[33mcommit 64b2af5e5641f02c6c8a2400af91c0a2adb2887d[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Mon Aug 23 18:38:17 2021 +0530
+
+    Add LICENCE
+
+[33mcommit 457324894d58e8064a48b5ac55a35454aaea9bff[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Mon Aug 23 19:06:04 2021 +0530
+
+    Add gh-pages
+
+[33mcommit cfc4e1a59813274d57e4891d28170d60eaba5820[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Mon Aug 23 19:06:35 2021 +0530
+
+    Add aria-label to theme toggle button
+
+[33mcommit 00d1042e0c308c82e899a5f942efeaded67fbed2[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Mon Aug 23 19:10:48 2021 +0530
+
+    Add aria-label to links without text
+
+[33mcommit aee177d425f80822db7c0a900aa26baa39c984cd[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Mon Aug 23 19:13:14 2021 +0530
+
+    Fix contrast ratio
+
+[33mcommit aa2b66fab2450ee70635a990159ffad7b0cd45f9[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Mon Aug 23 19:18:54 2021 +0530
+
+    Change headings
+
+[33mcommit 6ff586f4e005a788e1f03be17cf9311b1d968745[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Mon Aug 23 20:20:41 2021 +0530
+
+    Change colors and icons
+
+[33mcommit 23537ace278fc980702fed9a90cb65b881e34fc7[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Tue Aug 24 13:00:57 2021 +0530
+
+    Change font family and color scheme
+
+[33mcommit 8d64223bc8423eca248eeea80c227d3139f1e01f[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Wed Aug 25 12:51:33 2021 +0530
+
+    Social links won't show up if social object doesn't exist
+
+[33mcommit 82e8502d6efc1f327183aa1774fc17dd514ef058[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Wed Aug 25 12:51:50 2021 +0530
+
+    Document portfolio.js
+
+[33mcommit e4666ecc10944193b69f8ba329e85b118c0b58e3[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Wed Aug 25 13:32:19 2021 +0530
+
+    Add scroll to top
+
+[33mcommit f827704f4c9deb121bd4ba18dc911ef53a8f3130[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Wed Aug 25 17:49:16 2021 +0530
+
+    Separate Navbar in its own component and add navbar menu for width less than 600px
+
+[33mcommit d9452f2e044a43890ca734beb4b2155889fb9089[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Wed Aug 25 17:50:45 2021 +0530
+
+    Update browserslist
+
+[33mcommit eb836479de48492897021c13a5012fade4409e96[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Thu Aug 26 12:35:03 2021 +0530
+
+    Add .node-version
+
+[33mcommit 2cc041f2f1e42ec12f30c97eeb33c8a5b43c7362[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Thu Aug 26 12:35:29 2021 +0530
+
+    Update README.md
+
+[33mcommit 4cba620455a6ed47405ea792cb2d5662db29ab96[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Thu Aug 26 12:38:18 2021 +0530
+
+    Move ProjectContainer into separate component
+
+[33mcommit 765aa7208d6e6ba0ec2157174b1212b6a6afe6bd[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Thu Aug 26 12:49:43 2021 +0530
+
+    Update README.md
+
+[33mcommit f5dcb9fcf8b31967115f879f2ab592a82fcbe467[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Thu Aug 26 13:34:27 2021 +0530
+
+    Reduce placeholder projects
+
+[33mcommit da24659992283af8a9341da36f86d6fcb475f2b1[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Thu Aug 26 13:34:38 2021 +0530
+
+    Update README.md
+
+[33mcommit abf5f5841a0a0cd08df0c688fedf85c48bccb6f5[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Sat Aug 28 01:23:15 2021 +0530
+
+    Hide links from navbar when sections are not rendered
+
+[33mcommit 6cd38807ab93ed0989bbf88b6b38c9567ffe4d73[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Sat Aug 28 15:29:55 2021 +0530
+
+    Style pseudo class focus of button and anchor tag
+
+[33mcommit 771b51dfa6ded35fb81cac20598d8c1369efdc2b[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Sat Aug 28 15:40:13 2021 +0530
+
+    Remove buttons
+
+[33mcommit 0ec96ce2e8da572dccf20c9c46f03abab93c96c2[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Sat Aug 28 15:47:26 2021 +0530
+
+    Remove proptypes in ProjectContainer
+
+[33mcommit 8ce8c6321a03d4c78cd3e64771fbe0c4566b2188[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Sat Aug 28 16:55:10 2021 +0530
+
+    Disable react/prop-types rule
+
+[33mcommit b9f4728e74e9cbc0c689550c265fb657a0653aeb[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Sun Aug 29 13:14:34 2021 +0530
+
+    Replace button with div
+
+[33mcommit c92053171a1e33204a71f7624f14d7f19c3c7e23[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Sun Aug 29 13:33:56 2021 +0530
+
+    Update README.md
+
+[33mcommit fc65b3291a71408d97adabcb2a962f952864296c[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Sun Aug 29 14:16:39 2021 +0530
+
+    Refactor
+
+[33mcommit cc08ddb8d6b4198879400f60078aeb7dea672591[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Sat Sep 11 13:04:55 2021 +0530
+
+    Upate packages
+
+[33mcommit 01366271f5d099ce5314133487edff8be1f50648[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Sat Sep 11 13:05:08 2021 +0530
+
+    Remove prettier error rule
+
+[33mcommit 3cea56d14b48d79287e79e3fd8f6eb95234f27b8[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Sat Sep 11 13:05:26 2021 +0530
+
+    Fix navlist
+
+[33mcommit 816e7f66b65a91d54f20be97cf84952036507801[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Sat Sep 11 18:35:47 2021 +0530
+
+    Change position of theme toggle icon
+
+[33mcommit 4efd83bbe5ac83623242d217244c8246e3a12b53[m
+Author: Jesper Hustad <jesper@hustad.biz>
+Date:   Wed Sep 29 23:44:17 2021 +0200
+
+    Image link to demo
+    
+    Updated README.md
+
+[33mcommit 7e31c4f3153f15a5f25fe95686037569fb344f31[m
+Merge: 816e7f6 4efd83b
+Author: Raj Shekhar <rjshekhar.official@gmail.com>
+Date:   Fri Oct 1 14:25:12 2021 +0530
+
+    Merge pull request #3 from Jesper-Hustad/main
+    
+    Make image link to demo
+
+[33mcommit 10337e386bfa957798c42a7115b3c0f904cd3508[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Sun Oct 24 18:42:38 2021 +0530
+
+    Update README
+
+[33mcommit 77308773a1cf49eb345dcea1f5622539b26ef567[m
+Author: Egor Stronhin <i@egor.xyz>
+Date:   Sat Oct 30 10:38:43 2021 +0300
+
+    auto swap dark mode
+
+[33mcommit 88e154f665970785b03824173b7cf746ff176ed1[m
+Merge: 10337e3 7730877
+Author: Raj Shekhar <rjshekhar.official@gmail.com>
+Date:   Sat Oct 30 19:10:03 2021 +0530
+
+    Merge pull request #4 from egor-xyz/main
+    
+    Auto swap dark mode
+
+[33mcommit 9cf484b48f8c09c3b43677cae7b897f89940be6b[m
+Author: Noah <noah@n0ahmc.com>
+Date:   Tue Dec 28 20:09:28 2021 -0600
+
+    Fix openssl Bug
+
+[33mcommit 1c51c771be46c4d70520eb33ee24da9615a12b3e[m
+Merge: 88e154f 9cf484b
+Author: Raj Shekhar <rjshekhar.official@gmail.com>
+Date:   Wed Dec 29 16:11:07 2021 +0530
+
+    Merge pull request #6 from N0ahMC/main
+    
+    Fix openssl Bug
+
+[33mcommit 9c91b1a304281583992d948f4ca89aca35fc903a[m
+Author: Fahad <89760978+readysetgit24@users.noreply.github.com>
+Date:   Fri May 13 15:30:20 2022 -0500
+
+    Fixed an error that occurred when trying to start the app.
+    
+    This error occured when trying to yarn start or npm start :
+    
+    "bad option: --openssl-legacy-provider"
+    
+    The fix was merely changing the parameter positions
+
+[33mcommit 6c6067c5f98768a2c94233b26ec1ac89c0505a57[m
+Merge: 1c51c77 9c91b1a
+Author: Raj Shekhar <rjshekhar.official@gmail.com>
+Date:   Thu Jun 9 19:36:36 2022 +0530
+
+    Merge pull request #7 from readysetgit/main
+    
+    Fixed an error that occurred when trying to start the app.
+
+[33mcommit 445c46bcfb90fd99c2aeacb9bdb48242bf3b977b[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Sun Sep 24 07:30:15 2023 +0530
+
+    Update README.md
+
+[33mcommit 424a7c7fc22bd05f3fdf92be42e8f929c7eeef51[m
+Author: rajshekhar26 <rjshekhar.official@gmail.com>
+Date:   Sun Sep 24 07:31:23 2023 +0530
+
+    Update README.md
+
+[33mcommit 633b5f6bdd7531c26e9765a34750661fa7ee176a[m
+Author: Paraskevas Leivadaros <paraskevasleivadaros@gmail.com>
+Date:   Tue Jun 25 14:32:31 2024 +0300
+
+    Update README.md
+
+[33mcommit 2b4b6caf9f7c540be3142e348f141bbb52bc911c[m
+Merge: 424a7c7 633b5f6
+Author: Raj Shekhar <rjshekhar.official@gmail.com>
+Date:   Tue Jun 25 17:20:54 2024 +0530
+
+    Merge pull request #17 from paraskevasleivadaros/patch-1
+    
+    Update README.md
+
+[33mcommit 83c84d37bf0c61b89b06c5cb7a528146407f36b8[m
+Author: rjshkhr <rjshekhar.official@gmail.com>
+Date:   Wed Jun 26 14:19:40 2024 +0530
+
+    Update username
+
+[33mcommit aa287a62df61cfd65b924c59c1ee818a59d9b278[m
+Author: Hamid Ijaz <chhamidijaz@gmail.com>
+Date:   Thu Jul 11 11:50:25 2024 +0500
+
+    Fix: Add aria-label to link for accessibility
+
+[33mcommit 6db286c17ee2b55afc74157c6e4d6ed801abcd49[m
+Merge: 83c84d3 aa287a6
+Author: Raj Shekhar <rjshekhar.official@gmail.com>
+Date:   Thu Jul 11 12:48:18 2024 +0530
+
+    Merge pull request #18 from HamidIjaz/main
+    
+    Fix: Add aria-label to link for accessibility
+
+[33mcommit dc44b2331b7e8d7474529aaacd079e0ffc47bebd[m
+Author: DHONDGE Hrishikesh <hrishikesh.dhondge@loria.fr>
+Date:   Sun Aug 17 11:25:49 2025 +0530
+
+    Added the support for Project logo/image
+
+[33mcommit a266b4da818cfe192e91cd83f089c94a5a5b649b[m
+Author: DHONDGE Hrishikesh <hrishikesh.dhondge@loria.fr>
+Date:   Sun Aug 17 13:26:20 2025 +0530
+
+    Feature: Support for profile picture (optional)
+
+[33mcommit 2868f9d7bba00fb23884058b0aa86a247a4b5f6c[m
+Merge: 6db286c a266b4d
+Author: Raj Shekhar <rjshekhar.official@gmail.com>
+Date:   Sun Aug 17 21:18:07 2025 +0530
+
+    Merge pull request #24 from HrishiDhondge/main
+    
+    Feature: Support project images in project cards
+
+[33mcommit 0fe1aac9033541fb9bab3c8c82f934aa14b2dc12[m[33m ([m[1;31morigin/revert-24-main[m[33m)[m
+Author: Raj Shekhar <rjshekhar.official@gmail.com>
+Date:   Thu Aug 21 00:35:23 2025 +0530
+
+    Revert "Feature: Support project images in project cards "
+
+[33mcommit 2c766a35f30287b15191cb3d126164502128b105[m
+Merge: 2868f9d 0fe1aac
+Author: Raj Shekhar <rjshekhar.official@gmail.com>
+Date:   Thu Aug 21 00:35:35 2025 +0530
+
+    Merge pull request #26 from rjshkhr/revert-24-main
+    
+    Revert "Feature: Support project images in project cards "
+
+[33mcommit daebb7dc9d4fdfe40e5dd6598d84879045d1ab7a[m
+Author: Hrishikesh Dhondge <hbdhondge@gmail.com>
+Date:   Thu Aug 21 00:48:48 2025 +0530
+
+    Feature: Enhanced Project view with optional pictures
+
+[33mcommit d8b1b55a7eb2407815159bef83d710f7319a2282[m
+Merge: 2c766a3 daebb7d
+Author: Raj Shekhar <rjshekhar.official@gmail.com>
+Date:   Thu Aug 21 03:18:17 2025 +0530
+
+    Merge pull request #27 from HrishiDhondge/main
+    
+    Feature: Enhanced Project view with optional pictures
+
+[33mcommit ef88ac0758fc72cfb937ed5dca5caecb71c5ad0e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Minal Patil <minalpatil9025@gmail.com>
+Date:   Tue Nov 25 21:26:02 2025 +0530
+
+    Add project files and resume
