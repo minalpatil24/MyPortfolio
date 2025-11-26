@@ -1,6 +1,6 @@
 # MyPortfolio
 
-🚀 **Live Demo:** [Click here](https://minal-patil-portfolio.netlify.app/)
+🚀 **Live Demo:** [Click here](https://minalpatil-portfolio.onrender.com/)
 
 A clean and modern **personal portfolio website** built to showcase my projects, skills, and professional experience. This repository contains the source code for my portfolio, designed to be fast, responsive, and easy to customize.
 
