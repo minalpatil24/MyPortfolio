@@ -76,7 +76,7 @@ const projects = [
 const skills = [
   {
     category: "Front-End",
-    items: ["HTML", "CSS", "JavaScript", "React", "Redux", "Tailwind CSS"]
+    items: ["HTML", "CSS", "JavaScript", "React",  "Tailwind CSS"]
   },
   {
     category: "Back-End",
@@ -84,7 +84,7 @@ const skills = [
   },
   {
     category: "Tools & Platforms",
-    items: ["Git & GitHub", "VS Code", "Postman", "Vercel", "Netlify"]
+    items: ["Git & GitHub", "VS Code", "Hopscotch", "Render", "Netlify"]
   },
   {
     category: "Soft Skills",
