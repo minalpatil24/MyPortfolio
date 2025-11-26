@@ -17,8 +17,7 @@ I love turning ideas into real products, creating interactive tools and applicat
 
 Let’s build something amazing together! `,
   // resume: 'MinalPatilresume.pdf',
-resume: `${process.env.PUBLIC_URL}/MinalPatilresume.pdf`,
-
+resume: `${process.env.PUBLIC_URL}/MinalPatil.pdf`,
   social: {
     linkedin: 'https://linkedin.com',
     github: `https://github.com/minalpatil24`,
