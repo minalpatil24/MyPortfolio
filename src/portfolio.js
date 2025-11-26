@@ -16,7 +16,9 @@ const about = {
 I love turning ideas into real products, creating interactive tools and applications that people enjoy using. I’m always learning the latest technologies and frameworks to stay ahead in the rapidly evolving world of web development.
 
 Let’s build something amazing together! `,
-  resume: '/MinalPatilresume.pdf',
+  // resume: 'MinalPatilresume.pdf',
+resume: `${process.env.PUBLIC_URL}/MinalPatilresume.pdf`,
+
   social: {
     linkedin: 'https://linkedin.com',
     github: `https://github.com/minalpatil24`,
